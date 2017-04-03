@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>FullVersion.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>LightVersion.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>MultiVersionApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +23,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>042BB2221E928DAE0019A923</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>042BB23B1E928DC30019A923</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>042BB2511E928DD30019A923</key>
 		<dict>
 			<key>primary</key>
 			<true/>
